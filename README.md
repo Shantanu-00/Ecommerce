@@ -2,6 +2,21 @@
 
 A full-stack e-commerce platform built using **Node.js** and **Express.js** on the backend, **React.js** on the frontend, and **MySQL** as the database. It supports product browsing, cart management, secure user authentication, and robust admin features for order and inventory management.
 
+## Screenshots
+
+### Homepage
+![E-commerce Homepage](./images/hero.png)
+
+### Cart view
+![Cart Page](./images/cart.png)
+
+### Product detail
+![Product Detail](./images/product-page.png)
+
+### admin panel
+![Mobile View](./images/admin-dashboard.png)
+
+
 ---
 
 ## 🗂 Project Structure
